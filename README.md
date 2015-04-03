@@ -36,6 +36,9 @@
 - Ballicons2 : http://pixelbuddha.net/ballicons2/
 - Streamline : http://www.streamlineicons.com/
 - Retina Icon : http://retinaicon.com/
+- Material Design Iconic Font : http://zavoloklom.github.io/material-design-iconic-font/icons.html
+- Themify Icon : http://themify.me/themify-icons
+- Ionicons : http://ionicons.com/
 
 ### Stock Photos
 - https://stocksnap.io/
